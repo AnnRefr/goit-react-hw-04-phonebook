@@ -1,0 +1,20 @@
+.list {
+  list-style: none;
+}
+
+.item {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.button {
+  font-size: 10px;
+  border-radius: 10px;
+  background-color: grey;
+  color: white;
+}
+
+.button:hover {
+  background-color: blueviolet;
+}
